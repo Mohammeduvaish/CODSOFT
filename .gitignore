@@ -1,0 +1,13 @@
+**/node_modules/
+**/.vinext/
+**/.next/
+**/dist/
+**/build/
+**/.openai/
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+**/.DS_Store
+**/Thumbs.db
